@@ -6,8 +6,8 @@ function App() {
   return (
     <div className="App">
       <header id="47455" className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-
+        <img src={"https://whatemoji.org/wp-content/uploads/2020/07/Face-With-Open-Mouth-Emoji.png"} className="App-logo" alt="emote" />
+        {/* <img src={logo} className="App-logo" alt="logo" /> */}
         <p>
           So I want to Learn React and maybe become a developer.
         </p>
@@ -16,8 +16,9 @@ function App() {
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
+          style={{fontSize:"16px"}}
         >
-          Learn React from reatjs.org!
+          Link to the React site for some starting information!
         </a>
       </header>
       <div className="Main-Content" style={{fontWeight:"500"}}>

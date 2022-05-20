@@ -24,10 +24,11 @@ function App() {
       </header>
       <div 
         className="Main-Content" 
-        style={{fontWeight:"500"}}
-        data-aos="fade-down"
-        data-aos-easing="linear"
-        data-aos-duration="1500"
+        style={{fontWeight:"500", height:"80vh"}}
+        data-aos="fade-right"
+        data-aos-anchor-placement="top-center"
+        data-aos-duration="1000"
+        // data-aos-offset="0"
       >
         <p>
           Or choose one of the Following other options below, because Codecademy has some pretty crazy course packages!

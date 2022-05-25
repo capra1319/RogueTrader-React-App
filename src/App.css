@@ -16,21 +16,24 @@
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
+    max-width: 50vw;
+    max-height: 50vh;
   }
   .App-logo-small {
     animation: App-logo-spin infinite 5s linear;
   }
 }
 
-.App-header {
+header {
   background-color: #282c34;
-  min-height: 90vh;
+  min-height: 40vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  margin-top: 10vh;
 }
 
 .App-link {
@@ -47,26 +50,22 @@
 }
 
 body {
-  font-family: fantasy;
-  font-size: 2rem;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 1.5rem;
   background-color: #282c34;
-  height: 100vh;
   color: #61dafb;
 }
 
 .Main-Content {
-  display: flex;
-  justify-content: center;
-  flex-wrap: wrap;
-  flex-direction: row;
-  align-items: center;
-  max-width: 70vw;
-  margin-left: 15vw;
-  padding-bottom: 10vh;
+  max-width: 80vw;
+  margin-left: 10vw;
+  height: 50vh;
+  margin-bottom: 5vh;
+  margin-top: 5vh;
 }
 
 .button {
-  font-family: fantasy;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   font-weight: 500;
   display: inline-block;
   border-style: solid;
@@ -128,17 +127,9 @@ body {
 }
 
 .button:hover span img{
-  width: 10vw;
-  max-height: 10vh;
+  width: 5vw;
+  max-height: 7vh;
   transition: 0.5s;
   animation: App-logo-spin infinite 1.2s linear;
   padding-right: 20px;
-}
-
-#animatedDiv{
-  margin-top: 200px;
-  background: #dc143c;
-  min-height: 350px;
-  min-width: 20%;
-  position: absolute;
 }

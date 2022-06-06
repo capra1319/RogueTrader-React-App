@@ -1,7 +1,7 @@
 // import logo from './logo.svg';
 import './App.css';
 import { getByDisplayValue } from '@testing-library/react';
-import Content_01 from './assets/content_01.js'
+import Content01 from './assets/content_01.js'
 
 function App() {
   return (
@@ -10,12 +10,12 @@ function App() {
         <img src={"https://whatemoji.org/wp-content/uploads/2020/07/Face-With-Open-Mouth-Emoji.png"} className="App-logo" alt="emote" />
         {/* <img src={logo} className="App-logo" alt="logo" /> */}
         <p>
-          I decided to learn
+          Working with
             <span 
               style={{fontWeight:"600", color:"#61dafb"}}
               className="reactText"
               > React! </span>
-          <br />... and perhaps become a Developer.
+          <br /> and developing my own future with programming
         </p>
         <a
           className="App-link"
@@ -27,7 +27,7 @@ function App() {
           Link to the React site for some starting information!
         </a>
       </header>
-      <Content_01 />
+      <Content01 />
     </div>
   );
 }

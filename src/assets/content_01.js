@@ -53,7 +53,7 @@ function content_01() {
             </button>
           </a>
       </div>
-    </div >
+    </div>
   );
 }
 

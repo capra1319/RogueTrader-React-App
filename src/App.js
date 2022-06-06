@@ -28,7 +28,7 @@ function App() {
         </a>
       </header>
       <Content_01 />
-    </div >
+    </div>
   );
 }
 

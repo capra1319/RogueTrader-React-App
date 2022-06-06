@@ -6,7 +6,7 @@ function content_01() {
   return (
       <div 
         className="Main-Content" 
-        style={{fontWeight:"500", height:"80vh", paddingTop:"20vh"}}
+        style={{fontWeight:"500", height:"70vh", paddingTop:"30vh"}}
         data-aos="fade-right"
         data-aos-anchor-placement="top-center"
         data-aos-duration="1000"
@@ -53,7 +53,7 @@ function content_01() {
             </button>
           </a>
       </div>
-    </div >
+    </div>
   );
 }
 

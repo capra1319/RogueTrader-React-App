@@ -17,7 +17,7 @@ function Content01() {
         data-aos-duration="1000"
         // data-aos-offset="0"
       >
-        <p>I've decided to use the learning meterial from <a href="https://www.codecademy.com/learn"> codecademy.com</a>, due to their flexability and "learn at your own pace" structure, with their library of tutorial videos and virtual online text editor envirouments.</p>
+        <p>I'm using the meterial from <a href="https://www.codecademy.com/learn"> codecademy.com</a>, because to their flexability.</p>
         <p>Testing my var: <u>{logtest}</u></p>
         <img 
           src={codecademyLogo} 

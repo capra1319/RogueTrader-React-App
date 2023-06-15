@@ -8,8 +8,8 @@
 }
 
 .App-logo-small {
-  height: 20vmin;
-  width: 20vmin;
+  max-height: 20vmin;
+  max-width: 20vmin;
   pointer-events: none;
 }
 
@@ -26,14 +26,14 @@
 
 header {
   background-color: #282c34;
-  min-height: 40vh;
+  height: 70vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
-  margin-top: 10vh;
+  padding-top: 10vh;
 }
 
 .App-link {
@@ -54,14 +54,19 @@ body {
   font-size: 1.5rem;
   background-color: #282c34;
   color: #61dafb;
+  margin: 0 15vh 0 15vh;
 }
 
 .Main-Content {
-  max-width: 80vw;
-  margin-left: 10vw;
   height: 50vh;
-  margin-bottom: 5vh;
-  margin-top: 5vh;
+  font-weight: 500;
+  height: 100vh;
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  flex-direction: column;
 }
 
 .button {
@@ -132,4 +137,14 @@ body {
   transition: 0.5s;
   animation: App-logo-spin infinite 1.2s linear;
   padding-right: 20px;
+}
+
+a {
+  text-decoration:underline;
+  color: #61dafb;
+  transition: 0.5s;
+}
+
+a:hover {
+  color: #405c92;
 }

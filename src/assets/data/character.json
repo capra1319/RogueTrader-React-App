@@ -1,0 +1,49 @@
+{
+	"FirstName": "Gideon",
+	"LastName": "Ironfan",
+	"FullName": "Gideon Ironfang",
+	"Player": "Anthony",
+	"Career": "Exporer",
+	"Rank": 1,
+	"Home_world": "Imperial",
+	"Motivation": "Renown",
+	"Description": "Techno-Mancer Priest that is second in command to Lord Dyson.",
+	"Characteristics": {
+		"Weapon-Skill": {
+			"value": 46,
+			"rank": 2
+		},
+		"Ballistic-Skill": {
+			"value": 44,
+			"rank": 2
+		},
+		"Strength": {
+			"value": 60,
+			"rank": 2
+		},
+		"Toughness": {
+			"value": 50,
+			"rank": 2
+		},
+		"Agility": {
+			"value": 34,
+			"rank": 1
+		},
+		"Intelligence": {
+			"value": 53,
+			"rank": 3
+		},
+		"Perception": {
+			"value": 41,
+			"rank": 0
+		},
+		"Willpower": {
+			"value": 38,
+			"rank": 0
+		},
+		"Fellowship": {
+			"value": 37,
+			"rank": 0
+		}
+	}
+}

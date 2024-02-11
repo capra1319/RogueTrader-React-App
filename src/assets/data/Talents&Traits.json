@@ -1,0 +1,57 @@
+{
+	"Talents": [
+		{
+			"Skill": "Peer (Adeptus Mechanicus)",
+			"Ref": "https://dark-heresy-rp.fandom.com/wiki/Peer",
+            "Desc": ""
+		},
+		{
+			"Skill": "Rival",
+			"Ref": "https://extraheresy.fandom.com/wiki/Rival",
+            "Desc": "Essentially the opposite of Peer (see page 120 in the Dark Heresy Rulebook), this talent represents aggressive competition and some animosity with a particular social group or organization. You suffer a –10 penalty to all Fellowship tests when interacting with the group in question. The GM and player may agree to award this talent when appropriate to the storyline.<br />This talent may be removed with an Elite Advance and the approval of the GM if the player has taken suitable actions to earn the trust of the group."
+		},
+		{
+			"Skill": "Blessed Ignorance",
+			"Ref": "NA",
+            "Desc": "Look not upon the daemon, the heretic or the unclean enemies of the Emperor, it is through your eyes the foes of purity will lay siege to your soul.This power allows the faithful to blind themselves or others to creatures and objects which would rend their minds or tarnish their souls. Unfortunately for the faithful, that which they cannot see can still tear their throat out. When this power is activated, your character and a number of allies within long range equal to your Presence cannot perceive anything with the Fear or Daemonic traits. They are also blind to the presence of corrupting objects such as Chaos tainted artifacts. Such creatures and objects become effectively invisible to them (in actuality those affected simply cannot lock directly at them). This means that the faithful and their allies will not need to make fear checks or corruption checks from such sources. However, this in no way prevents such a creature from attacking or acting in any other way, and should the faithful or his allies attempt to fight such creatures they must do so as if they were blind. This effect lasts until the end of the encounter."
+
+		},
+		{
+			"Skill": "Basic Weapon Training (Universe)",
+			"Ref": "https://extraheresy.fandom.com/wiki/Basic_Weapon_Training",
+            "Desc": "You have received Basic Weapon Training in a group of weapons, and can use them without penalty"
+		},
+		{
+			"Skill": "Melee Weapon Training (Universe)",
+			"Ref": "https://extraheresy.fandom.com/wiki/Melee_Weapon_Training",
+            "Desc": "You have received basic training in a group of hand-to-hand weaponry, and can use them without penalty."
+		},
+		{
+			"Skill": "Logis Implant",
+			"Ref": "https://extraheresy.fandom.com/wiki/Logis_Implant",
+            "Desc": "You may utilise analytical circuits to calculate trajectory and reactions to a preternatural extent. Your ability to read possible outcomes lets you anticipate the movement of your opponents. As a Reaction you may make a Tech-Use Test to activate your Logis Implant. Note that this uses up your Reaction for the Round. Until the end of your next Turn, you gain a +10 bonus to all Weapon Skill and Ballistic Skill Tests. Each successful use of this Talent causes one level of Fatigue."
+		},
+		{
+			"Skill": "AutoSenguine",
+			"Ref": "https://extraheresy.fandom.com/wiki/Autosanguine",
+            "Desc": "Ancient and blessed technology filters your blood. Handed down from generations past, your implants repair minor injuries. For the purposes of healing, you are always considered to be Lightly Wounded. In addition, you naturally heal at an increased rate, removing 2 points of Damage each day. Your autosanguinators also sooth the minor pains and sores caused by the blessed metal of your implants pressing upon your weak flesh. This has no game effect, but does make you slightly less irritable than before."
+		},
+		{
+			"Skill": "Technical Knock",
+			"Ref": "https://extraheresy.fandom.com/wiki/Technical_Knock",
+            "Desc": "With a honeyed whisper and ritual motion, you can awaken sleeping gun-spirits into furious action once more. You may unjam any gun as a Half Action. You must touch the gun in question to enact this rite. You may only perform this rite on one weapon per Round—any more would be disrespectful."
+		}
+	],
+    "Traits": [
+        {
+			"Skill": "Ill-starred",
+			"Ref": "",
+			"Desc": "N/A"
+		},
+		{
+			"Skill": "Mechanicus Implants",
+			"Ref": "",
+			"Desc": "N/A"
+		}
+    ]
+}

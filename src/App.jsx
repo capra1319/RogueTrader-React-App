@@ -3,6 +3,7 @@ import './App.css';
 import AllCharacteristics from './pages/AllCharacteristics';
 import CharacterDetials from './pages/characterDetails';
 import Navbar from './assets/Navbar.js';
+import TalentsTraits from './pages/TalentsTraits.jsx';
 
 function App() {
 	return (
@@ -20,6 +21,7 @@ function App() {
 			</header>
 			<CharacterDetials />
 			<AllCharacteristics />
+			<TalentsTraits />
 		</div>
 	);
 }

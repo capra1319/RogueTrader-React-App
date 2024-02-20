@@ -1,4 +1,4 @@
-import Characteristic from '../assets/characteristic'
+import Characteristic from '../assets/components/characteristic'
 
 //variable
 

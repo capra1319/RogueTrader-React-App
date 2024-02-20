@@ -45,5 +45,8 @@
 			"value": 37,
 			"rank": 0
 		}
+	},
+	"TalentsTraits":{
+		"location": "../src/assets/data/Talents&Traits.json"
 	}
 }

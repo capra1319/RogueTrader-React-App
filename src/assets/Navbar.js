@@ -14,8 +14,7 @@ function Navbar () {
     return (
         <div className="navbar">
             <a href='#homeAnchor' className="navbar-option">Home</a>
-            <a href="#startSection01" className="navbar-option">Section 01</a>
-            <a href="#startSection02" className="navbar-option">Section 02</a>
+            <a href="#CharacteristicStats" className="navbar-option">Characteristics</a>
         </div>
     );
 }
